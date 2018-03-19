@@ -6,7 +6,8 @@
 <head runat="server">
     <title></title>    
     
-    <link href="main.css" rel="stylesheet" /> 
+    <link href="main.css" rel="stylesheet" />
+     <link rel="icon" href="img/tabIcon.png" />
     <script src="js/jquery-3.1.1.min.js"></script>    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <asp:ContentPlaceHolder ID="head" runat="server">
@@ -18,7 +19,7 @@
 
         <header>
             <div id="logo">
-                <a href="Bogdan-Scutaru-Gallery.aspx"><img src="img/logo.png" /></a>
+                <a href="Bogdan-Scutaru-Gallery.aspx"><img src="img/logo-grey.png" /></a>
             </div>
             <div id="menu-icon">
                 <span class="icon-bar"></span>

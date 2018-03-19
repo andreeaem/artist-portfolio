@@ -8,9 +8,8 @@
     <div id="galleryContainer" class="galleryContainer-scroll">
         <div id="gallery" class="gallery-scroll">
             <%--   Murals" --%>
-             <div class="overlay">
-            <img src="img/Elegantslider/Murals/16.MyPlayground-Holstebro-2017.jpg" alt="MyPlayground-Holstebro-2017"/>
-                  </div>
+            
+            <img src="img/Elegantslider/Murals/16.MyPlayground-Holstebro-2017.jpg" alt="MyPlayground-Holstebro-2017" />            
             <img src="img/Elegantslider/Murals/15.Moccamaster-IdrætshøjskolenAarhus-2017.jpg" alt="Moccamaster Mural Streetart at Idrætshøjskolen Aarhus"/>
             <img src="img/Elegantslider/Murals/14.Display-Festival-2017.jpg" alt="Girl portrait, mural at Display festival 2017"/>
             <img src="img/Elegantslider/Murals/13.Aarhus-Streetart-Festival-2017.jpg" alt="Girl walking in the rainy weather, mural at Aarhus Fest Uge, Graffiti Festival 2017"/>
