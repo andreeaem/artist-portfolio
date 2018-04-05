@@ -17,14 +17,12 @@
             <h1>GENERAL INFO
             </h1>
             <p>
-                I am a Romanian artist based in Horsens, Denmark. 
-                I come from a graffiti background so my medium of choice is spray paint but <span class="newStyle1">I am also han</span>dy with a ballpoint pen 
-                   or other media.
-                In the gallery you can see some of my recent streetart murals, canvases and sketches. 
+               I am a Romanian street artist and my work revolves around large scale murals painted in a realistic manner with 
+               different fantasy and contemporary influences. I reside in Horsens, Denmark and many times travel for painting and street art events, festivals or commissions.
+               In the gallery you can see some of my recent streetart murals, canvases and sketches. 
             </p>
             <p>
-                If you like my work and you are interested in purchasing, commissioning, or just have some questions, 
-                     you are welcomed to contact me via telephone, email, 
+               For commissions or purchases you are welcomed to contact me via telephone, email, 
                 <a href="https://www.facebook.com/BogdanIonutScutaru/?fref=ts" target="_blank">Facebook</a> or 
                 <a href="https://www.instagram.com/bogdanscutaru/" target="_blank">Instagram</a>.
             </p>
